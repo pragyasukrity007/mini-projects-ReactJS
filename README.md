@@ -25,6 +25,7 @@ Here’s a glimpse of some projects you’ll find here:
 | Project # | Project Name                |
 |-----------|-----------------------------|
 | 1         | Accordion                   |
+| 2         | Random color Generator      |
 | ...       | More coming soon!           |
 
 > 📌 **Note:** Explore each project folder for its README, code, and usage instructions.

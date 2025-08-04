@@ -37,44 +37,51 @@ Here’s a glimpse of some projects you’ll find here:
 
 1️⃣ **Clone this repository**
 
-```bash
 git clone https://github.com/YOUR-USERNAME/25-reactjs-interview-projects.git
 
-2️⃣ Navigate to any project folder
+2️⃣ **Navigate to any project folder**
 
 cd project-name
 
-3️⃣ Install dependencies
+3️⃣ **Install dependencies**
 
 npm install
 
-4️⃣ Run the project
+4️⃣ **Run the project**
 
 npm run dev
 
-⚡ Most projects use Vite for a faster development setup.
+**⚡ Most projects use Vite for a faster development setup.**
 
-🚀 Tech Stack
-React.js
+---
 
-JavaScript (ES6+)
+## 🚀 Tech Stack
+**React.js**
 
-Vite
+**JavaScript (ES6+)**
 
-CSS / Tailwind / Styled Components (varies)
+**Vite**
 
-✨ Motivation
+**CSS / Tailwind / Styled Components (varies)**
+
+---
+
+##  ✨ Motivation
 This repo is inspired by the original 25 ReactJS Interview Projects by Sangam Mukherjee.
 I’m rebuilding them on my own system to learn hands-on, practice React fundamentals, and get ready for frontend developer interviews.
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 Suggestions & improvements are welcome!
 
 Feel free to fork and build your own versions.
 
 Open an issue if you find bugs.
 
-🙌 Author
+---
+
+## 🙌 Author
 Pragya Sukrity — [GitHub](https://github.com/pragyasukrity007)
 
 

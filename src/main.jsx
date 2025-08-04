@@ -4,11 +4,13 @@ import "./index.css";
 import App from "./App.jsx";
 import Accordian from "./components/accordian/index.jsx";
 import RandomColor from "./components/random-color-generator/index.jsx";
+import StarRating from "./components/star-rating/index.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     {/* <App /> */}
     <Accordian />
     <RandomColor />
+    <StarRating />
   </StrictMode>
 );

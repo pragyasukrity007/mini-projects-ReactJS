@@ -26,6 +26,7 @@ Here’s a glimpse of some projects you’ll find here:
 |-----------|-----------------------------|
 | 1         | Accordion                   |
 | 2         | Random color Generator      |
+| 3         | Star Rating                 |
 | ...       | More coming soon!           |
 
 > 📌 **Note:** Explore each project folder for its README, code, and usage instructions.

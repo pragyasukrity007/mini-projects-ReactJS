@@ -6,6 +6,7 @@ import Accordian from "./components/accordian/index.jsx";
 import RandomColor from "./components/random-color-generator/index.jsx";
 import StarRating from "./components/star-rating/index.jsx";
 import TicTacToe from "./components/tic-tac-toe/index.jsx";
+import QRCodeGenerator from "./components/qr-code-generator/index.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -14,5 +15,6 @@ createRoot(document.getElementById("root")).render(
     <RandomColor />
     <StarRating />
     <TicTacToe />
+    <QRCodeGenerator />
   </StrictMode>
 );

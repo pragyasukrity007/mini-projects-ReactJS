@@ -27,6 +27,9 @@ Here’s a glimpse of some projects you’ll find here:
 | 1         | Accordion                   |
 | 2         | Random color Generator      |
 | 3         | Star Rating                 |
+| 4         | Tic Tac Toe Game            |
+| 5         | QR Code generator           |
+| 6         | Light and Dark theme        |
 | ...       | More coming soon!           |
 
 > 📌 **Note:** Explore each project folder for its README, code, and usage instructions.

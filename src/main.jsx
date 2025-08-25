@@ -7,6 +7,7 @@ import RandomColor from "./components/random-color-generator/index.jsx";
 import StarRating from "./components/star-rating/index.jsx";
 import TicTacToe from "./components/tic-tac-toe/index.jsx";
 import QRCodeGenerator from "./components/qr-code-generator/index.jsx";
+import LightDarkMode from "./components/theme-switch/index.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -16,5 +17,6 @@ createRoot(document.getElementById("root")).render(
     <StarRating />
     <TicTacToe />
     <QRCodeGenerator />
+    <LightDarkMode />
   </StrictMode>
 );

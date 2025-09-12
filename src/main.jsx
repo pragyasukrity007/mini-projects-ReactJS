@@ -8,6 +8,7 @@ import StarRating from "./components/star-rating/index.jsx";
 import TicTacToe from "./components/tic-tac-toe/index.jsx";
 import QRCodeGenerator from "./components/qr-code-generator/index.jsx";
 import LightDarkMode from "./components/theme-switch/index.jsx";
+import ImageSlider from "./components/image-slider/index.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -18,5 +19,6 @@ createRoot(document.getElementById("root")).render(
     <TicTacToe />
     <QRCodeGenerator />
     <LightDarkMode />
+    <ImageSlider url={"https://picsum.photos/v2/list"} limit={"10"} page={'1'} />
   </StrictMode>
 );

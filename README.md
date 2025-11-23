@@ -1,4 +1,4 @@
-# 📚 25 ReactJS Interview Projects 🚀
+# 📚 ReactJS Interview Projects 🚀
 
 Welcome to my **React.js Projects Practice Repo!**  
 This repository contains **25 practical mini React projects** to help you learn, practice, and crack React interviews with confidence.
